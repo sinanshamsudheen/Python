@@ -12,5 +12,6 @@ print(ch)
 # str2[3]="b" #Manipulation is not possible
 
 print(str3[0:5]) #slicing
-print(str3[:5])
+print(str3[:5]) #same output
 #ending index is not included
+print(str3[-3:-1]) #negative indexing
