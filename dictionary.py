@@ -46,5 +46,5 @@ print(employee.get("name")) #to return the value of a key
 employee.update({"salary" : "69"}) #to update or add an item
 print(employee)
 
-employee.update({"name" : "lechmi"}) #overwriting is possible
+employee.update({"name" : "liza"}) #overwriting is possible
 print(employee)
