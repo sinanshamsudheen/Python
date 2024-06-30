@@ -14,3 +14,9 @@ def sum(a=4,b=5): #default parameters
 sum(10,10)
 sum()
 
+"""O/P 
+sinan@liza
+sahal
+english korean japanese english korean japanese 6    
+20
+9"""
