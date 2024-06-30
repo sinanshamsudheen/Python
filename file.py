@@ -23,3 +23,11 @@ with open("demo.txt","r") as f:
 
 import os
 os.remove("demo.txt")
+
+O/P 
+"""
+
+this is a new line
+
+this is a new line
+this is the next line"""
