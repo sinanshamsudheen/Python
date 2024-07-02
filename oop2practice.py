@@ -38,6 +38,17 @@ print(eng.name)
 print(eng.salary)
 eng.showDetails()
 
+class Order:
+    def __init__(self,item,price):
+        self.item=item
+        self.price=price
+    def __gt__(self,odr2):       
+        return self.price>odr2.price
+
+odr1= Order("bread",35)
+odr2= Order("tea",15)
+print(odr1>odr2)
+
 """o/p
 The area is : 78.5
 the perimeter is : 31.400000000000002
