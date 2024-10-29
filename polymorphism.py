@@ -33,3 +33,12 @@ num3.showNumber()
 
 num4=num1-num2
 num4.showNumber()
+
+"""o/p 
+4
+sinanliza
+[1, 2, 3, 4, 5, 6]
+1 i + 3 j
+4 i + 9 j
+5 i + 12 j
+-3 i + 12 j"""
